@@ -1,4 +1,4 @@
-package echodemo
+package main
 
 import (
 	"net/http"
